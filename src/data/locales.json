@@ -1,30 +1,27 @@
-{
-    "locales": [
-      {
-        "name": "Korean (South Korea)",
-        "code": "ko-KR",
-        "flag": "🇰🇷"
-      },
-      {
-        "name": "Hindi (India)",
-        "code": "hi-IN",
-        "flag": "🇮🇳"
-      },
-      {
-        "name": "Thai (Thailand)",
-        "code": "th-TH",
-        "flag": "🇹🇭"
-      },
-      {
-        "name": "English (Australia)",
-        "code": "en-AU",
-        "flag": "🇦🇺"
-      },
-      {
-        "name": "English (New Zealand)",
-        "code": "en-NZ",
-        "flag": "🇳🇿"
-      }
-    ]
-  }
-  
+ [
+    {
+      "name": "Korean (South Korea)",
+      "code": "ko-KR",
+      "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0"
+    },
+    {
+      "name": "English (India)",
+      "code": "en-IN",
+      "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAACmAAAApgHdff84AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAADlQTFRF////3ejI9unU0tzF6d7Rc68A+rRGc68A+rRFc68AmJrGmJvGpqjNsLLTsbTUs7XU6+vw9fX1+rRGZ4FvHAAAAAl0Uk5TAMTEx8fJyeDgiU1u5AAAAE1JREFUKM9jYcABWKgowcaEVfwfCw8dLP+AYDMx/EOS4Icz//5jYGbCYtT/f/8Z/jIyYrPjPyNWyxkZmRiYGImwnIMOPv+DK9h/095yABpwD2P3tHWuAAAAAElFTkSuQmCC"
+    },
+    {
+      "name": "Thai (Thailand)",
+      "code": "th-TH",
+      "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0"
+    },
+    {
+      "name": "English (Australia)",
+      "code": "en-AU",
+      "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0"
+    },
+    {
+      "name": "English (New Zealand)",
+      "code": "en-NZ",
+      "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0"
+    }
+  ]

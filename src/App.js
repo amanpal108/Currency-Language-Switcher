@@ -1,10 +1,8 @@
-
+import CurrencyCountrySwitcherRedux from "./components/CCSwitcherRedux";
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <CurrencyCountrySwitcherRedux/>
   );
 }
 

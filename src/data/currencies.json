@@ -1,5 +1,4 @@
-{
-    "currencies": [
+ [
       {
         "name": "South Korean won",
         "code": "KRW",
@@ -25,6 +24,6 @@
         "code": "NZD",
         "stripe_code": "nzd"
       }
-    ]
-  }
+]
+
   
