@@ -1,0 +1,30 @@
+{
+    "locales": [
+      {
+        "name": "Korean (South Korea)",
+        "code": "ko-KR",
+        "flag": "🇰🇷"
+      },
+      {
+        "name": "Hindi (India)",
+        "code": "hi-IN",
+        "flag": "🇮🇳"
+      },
+      {
+        "name": "Thai (Thailand)",
+        "code": "th-TH",
+        "flag": "🇹🇭"
+      },
+      {
+        "name": "English (Australia)",
+        "code": "en-AU",
+        "flag": "🇦🇺"
+      },
+      {
+        "name": "English (New Zealand)",
+        "code": "en-NZ",
+        "flag": "🇳🇿"
+      }
+    ]
+  }
+  
